@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Sabarinayagam/TodoApp.git/static/css/main.d1c07dd9.css",
+    "main.css": "/Sabarinayagam/TodoApp.git/static/css/main.6a1cbe2f.css",
     "main.js": "/Sabarinayagam/TodoApp.git/static/js/main.61ac9da1.js",
     "index.html": "/Sabarinayagam/TodoApp.git/index.html",
-    "main.d1c07dd9.css.map": "/Sabarinayagam/TodoApp.git/static/css/main.d1c07dd9.css.map",
+    "main.6a1cbe2f.css.map": "/Sabarinayagam/TodoApp.git/static/css/main.6a1cbe2f.css.map",
     "main.61ac9da1.js.map": "/Sabarinayagam/TodoApp.git/static/js/main.61ac9da1.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1c07dd9.css",
+    "static/css/main.6a1cbe2f.css",
     "static/js/main.61ac9da1.js"
   ]
 }
